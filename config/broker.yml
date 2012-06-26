@@ -13,7 +13,7 @@ development:
     # properties below are all defaults for this adapter
     # login: ""
     # passcode: ""
-    host: linode.iachieved.it
+    host: 15.185.226.91
     # port: 61613
     # reliable: true
     # reconnectDelay: 5
