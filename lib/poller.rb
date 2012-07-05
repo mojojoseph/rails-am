@@ -21,7 +21,7 @@ require 'active_support'
 require 'activemessaging'
 
 # Load ActiveMessaging processors
-#ActiveMessaging::load_processors
+ActiveMessaging::load_processors
 
 # Start it up!
 ActiveMessaging::start
